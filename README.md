@@ -1,6 +1,4 @@
 "# ChallengeOracle_Literalura" 
-Sure! Here is the structure and content for your `README.md` file:
-
 ---
 
 # Book Catalog Application

@@ -3,7 +3,8 @@
 
 # Book Catalog Application
 
-![Book Catalog Application](header-image.jpg)
+![simple image representing Book Catalog Application](https://github.com/user-attachments/assets/c8426f43-3ef5-455a-be89-ecc754f59cfb)
+
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/JAVIERLAINEZ/ChallengeOracle_Literalura)
 ![GitHub stars](https://img.shields.io/github/stars/JAVIERLAINEZ/ChallengeOracle_Literalura?style=social)
